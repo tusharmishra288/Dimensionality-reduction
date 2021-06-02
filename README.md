@@ -1,2 +1,2 @@
-# Dimensionality-reduction
-Contains some of the dimensionality reduction techchniques
+# Dimensionality Reduction
+Implementation of common dimensionality reduction techchniques.
